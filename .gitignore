@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Chemical X / Django stuff
+chemicalx/static/bower
+db.sqlite3

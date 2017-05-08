@@ -1,0 +1,12 @@
+{
+  "name": "chemicalx",
+  "version": "0.0.0",
+  "authors": [
+    "db0company <db0company@gmail.com>"
+  ],
+  "description": "Deployment Platform for Grab Gamma",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "less": "~2.0.0"
+  }
+}
